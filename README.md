@@ -27,6 +27,11 @@ Criação inicial finalizada ✅
 npm i styled-components
 npm i @types/styled-components -D
 ```
+#### Phospor-react (icons)
+```bash
+npm i phosphor-react
+```
+
 ---
 ---
 ---
