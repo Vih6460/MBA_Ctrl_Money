@@ -18,6 +18,15 @@ npm run dev
 Criação inicial finalizada ✅
 
 ---
+
+
+### Bibliotecas utilizadas
+
+#### Styled components
+```bash
+npm i styled-components
+npm i @types/styled-components -D
+```
 ---
 ---
 ---
