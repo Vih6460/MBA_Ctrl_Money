@@ -1,8 +1,7 @@
 # Ctrl Money
-## Projeto utilizando React + Typescript + Vite desenvolvido durante MBA
+## Projeto utilizando **React + Typescript + Vite** desenvolvido durante MBA
 
-
-### Criando o projeto
+### Criando o Projeto
 
 ```bash
 npm create vite@latest
